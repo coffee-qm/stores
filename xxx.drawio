@@ -4,50 +4,71 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-1" value="Boss" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="30" width="30" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-1" value="Boss" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-2" value="微信小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-2" value="微信小程序" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-3" value="WEB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-3" value="WEB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-4" value="Mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="555" width="120" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-4" value="数据库：Mysql" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-5" value="Java" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-5" value="后端：Java" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-6" value="阿里云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-6" value="阿里云" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-7" value="华为云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-7" value="华为云" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-8" value="百度云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-8" value="百度云" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-9" value="腾讯云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-9" value="腾讯云" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-10" value="亚马逊云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-10" value="亚马逊云" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-11" value="WEB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-11" value="前端：VUE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-14" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="30" width="30" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-14" value="档口" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="354" y="40" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="30" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-15" value="主播" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="40" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="30" width="30" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-16" value="买手" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vunjSk0Zx1UJAOZizzDy-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="30" width="30" height="60" as="geometry" />
+        <mxCell id="vunjSk0Zx1UJAOZizzDy-17" value="仓管" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZI9YYkXj_Vlp5S6ilh_-3" value="供应商" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZI9YYkXj_Vlp5S6ilh_-4" value="WEB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZI9YYkXj_Vlp5S6ilh_-5" value="WEB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZI9YYkXj_Vlp5S6ilh_-6" value="容器：Tomcat/Docker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZI9YYkXj_Vlp5S6ilh_-7" value="OS：SUSE&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/Euler&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZI9YYkXj_Vlp5S6ilh_-8" value="WEB&lt;div&gt;管理面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZI9YYkXj_Vlp5S6ilh_-11" value="App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
